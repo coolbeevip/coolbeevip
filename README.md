@@ -25,8 +25,14 @@
         </a>
         <p>
             Git Assistant is an IntelliJ plugin that provides AI-powered commit message generation and team commit insights, helping developers commit faster, more consistently, and visualize collaboration more effectively.
-![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/v/24154-git-assistant.svg)
-![Downloads](https://img.shields.io/jetbrains/plugin/d/24154-git-assistant.svg)
+        </p>
+        <p align="center">
+          <a href="https://plugins.jetbrains.com/plugin/24154-git-assistant">
+            <img src="https://img.shields.io/jetbrains/plugin/v/24154-git-assistant?style=flat-square&color=0A84FF&logo=jetbrains&logoColor=white" alt="JetBrains Plugin Version">
+          </a>
+          <a href="https://plugins.jetbrains.com/plugin/24154-git-assistant">
+            <img src="https://img.shields.io/jetbrains/plugin/d/24154-git-assistant?label=Downloads&style=flat-square" alt="Downloads">
+          </a>
         </p>
       </td>
     </tr>
