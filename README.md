@@ -1,13 +1,12 @@
-<table style="width:100%; border-collapse:collapse;">
+<table>
   <tr>
-    <td style="width:50%; vertical-align:top; padding:12px; text-align:center; min-width:260px;">
+    <td>
       <h3>Expert Pick</h3>
-      <img src="assets/expertpick/screenshot.webp" alt="Expert Pick" style="width:100%; height:auto; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.08);" />
+      <a href="https://expertpick.pages.dev/"><img src="assets/expertpick/screenshot.webp" alt="Expert Pick" style="width:100%; height:auto; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.08);" /></a>
     </td>
-
-    <td style="width:50%; vertical-align:top; padding:12px; text-align:center; min-width:260px;">
+    <td>
       <h3>GitAssistant</h3>
-      <img src="assets/gitassistant/screenshot.png" alt="GitAssistant" style="width:100%; height:auto; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.08);" />
+      <a href="https://gitassistant.pages.dev/"><img src="assets/gitassistant/screenshot.png" alt="GitAssistant" style="width:100%; height:auto; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.08);" /></a>
     </td>
   </tr>
 </table>
