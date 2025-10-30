@@ -30,3 +30,6 @@
     </tr>
   </tbody>
 </table>
+![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/v/24154-git-assistant.svg)
+![Downloads](https://img.shields.io/jetbrains/plugin/d/24154-git-assistant.svg)
+
