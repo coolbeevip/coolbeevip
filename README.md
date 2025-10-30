@@ -1,3 +1,20 @@
+<h1 align="center">👋 Hi, I'm Lei Zhang</h1>
+
+<p align="center">
+  <strong>AI & Open Source Engineer | ASF PMC & Committer @ Apache ServiceComb</strong><br>
+  <em>Creator of <a href="https://expertpick.pages.dev/">Expert Pick</a> and <a href="https://gitassistant.pages.dev/">Git Assistant</a></em>
+</p>
+
+<h3 align="center">🚀 打造下一代智能开发者工具</h3>
+<p align="center">
+  <em>Building the next generation of AI-powered developer tools.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Stack-GitHub%20Copilot%20|%20OpenAI%20Codex%20|%20Gemini%20CLI-blue?style=flat-square&logo=openai&logoColor=white" alt="AI Stack">
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20|%20Developer%20Tools%20|%20Productivity-green?style=flat-square&logo=github&logoColor=white" alt="Focus Areas">
+</p>
+---
 <table width="100%">
   <colgroup>
     <col span="1" width="50%" />
@@ -18,6 +35,11 @@
         <p>
             Expert Pick is a Chrome extension that enables element-level intelligent Q&A, custom expert creation, and multi-model integration.
         </p>
+        <p align="center">
+          <a href="https://chromewebstore.google.com/detail/Expert%20Pick/nlhaigmgncplpnanfmjakbfcbfbhcnjo?hl=en">
+            <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Live-green?logo=google-chrome&style=flat-square" alt="JetBrains Plugin Version">
+          </a>
+        </p>        
       </td>
       <td valign="top" align="center">
         <a href="https://gitassistant.pages.dev/" aria-label="Open Git Assistant">
