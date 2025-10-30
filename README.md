@@ -10,10 +10,7 @@
   <em>通过实际产品探索 AI 辅助开发：Expert Pick 与 Git Assistant。</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Stack-GitHub%20Copilot%20|%20OpenAI%20Codex%20|%20Gemini%20CLI-blue?style=flat-square&logo=openai&logoColor=white" alt="AI Stack">
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20|%20Developer%20Tools%20|%20Productivity-green?style=flat-square&logo=github&logoColor=white" alt="Focus Areas">
-</p>
+![github-stats](https://github-readme-stats.vercel.app/api?username=coolbeevip&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite) ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolbeevip&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)
 
 <table width="100%">
   <colgroup>
