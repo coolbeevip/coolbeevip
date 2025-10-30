@@ -1,8 +1,12 @@
-<table>
+<table width="100%">
+  <colgroup>
+    <col span="1" width="50%" />
+    <col span="1" width="50%" />
+  </colgroup>
   <thead>
     <tr>
-      <th scope="col">Expert Pick</th>
-      <th scope="col">Git Assistant</th>
+      <th scope="col" width="50%">Expert Pick</th>
+      <th scope="col" width="50%">Git Assistant</th>
     </tr>
   </thead>
   <tbody>
