@@ -5,7 +5,7 @@
   <em>Creator of <a href="https://expertpick.pages.dev/">Expert Pick</a> and <a href="https://gitassistant.pages.dev/">Git Assistant</a></em>
 </p>
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=coolbeevip&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite) ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolbeevip&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)
+![github-stats](https://github-readme-stats.vercel.app/api?username=coolbeevip&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=402000&icon_color=ffffff&bg_color=30,d48c00,f6c400,ffe680,fff7cc&theme=graywhite) ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolbeevip&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000000&icon_color=000000&bg_color=30,d7d7d7,f5f5f5,bfbfbf&theme=graywhite)
 
 <table width="100%">
   <colgroup>
