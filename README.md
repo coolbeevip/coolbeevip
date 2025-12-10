@@ -4,7 +4,12 @@
   <strong>AI & Open Source Engineer | ASF PMC & Committer @ Apache ServiceComb</strong><br>
   <em>Creator of <a href="https://expertpick.pages.dev/">Expert Pick</a> and <a href="https://gitassistant.pages.dev/">Git Assistant</a></em>
 </p>
-
+<table style="border: none;">
+<tr style="border: none;">
+  <td style="border: none; padding: 4px;">🔧 Feature</td>
+  <td style="border: none; padding: 4px;">Description text here...</td>
+</tr>
+</table>
 <table width="100%" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: 0; padding: 0;">
