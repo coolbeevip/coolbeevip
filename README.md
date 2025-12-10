@@ -33,12 +33,7 @@
         </a>
         <p>
             Expert Pick is a Chrome extension that enables element-level intelligent Q&A, custom expert creation, and multi-model integration.
-        </p>
-        <p align="center">
-          <a href="https://chromewebstore.google.com/detail/Expert%20Pick/nlhaigmgncplpnanfmjakbfcbfbhcnjo?hl=en">
-            <img src="https://img.shields.io/badge/Chrome%20Extension-Expert%20Pick%201.2.0-green?logo=google-chrome&style=flat-square" alt="JetBrains Plugin Version">
-          </a>
-        </p>        
+        </p> 
       </td>
       <td valign="top" align="center">
         <a href="https://gitassistant.pages.dev/" aria-label="Open Git Assistant">
@@ -46,14 +41,6 @@
         </a>
         <p>
             Git Assistant is an IntelliJ plugin that provides AI-powered commit message generation and team commit insights, helping developers commit faster, more consistently, and visualize collaboration more effectively.
-        </p>
-        <p align="center">
-          <a href="https://plugins.jetbrains.com/plugin/24154-git-assistant">
-            <img src="https://img.shields.io/jetbrains/plugin/v/24154-git-assistant?style=flat-square&color=0A84FF&logo=jetbrains&logoColor=white" alt="JetBrains Plugin Version">
-          </a>
-          <a href="https://plugins.jetbrains.com/plugin/24154-git-assistant">
-            <img src="https://img.shields.io/jetbrains/plugin/d/24154-git-assistant?label=Downloads&style=flat-square" alt="Downloads">
-          </a>
         </p>
       </td>
     </tr>
