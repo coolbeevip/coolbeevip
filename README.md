@@ -57,5 +57,19 @@
         </p>
       </td>
     </tr>
+    <tr>
+      <td>
+      </td>
+      <td>
+        <p align="center">
+          <a href="https://plugins.jetbrains.com/plugin/24154-git-assistant">
+            <img src="https://img.shields.io/jetbrains/plugin/v/24154-git-assistant?style=flat-square&color=0A84FF&logo=jetbrains&logoColor=white" alt="JetBrains Plugin Version">
+          </a>
+          <a href="https://plugins.jetbrains.com/plugin/24154-git-assistant">
+            <img src="https://img.shields.io/jetbrains/plugin/d/24154-git-assistant?label=Downloads&style=flat-square" alt="Downloads">
+          </a>
+        </p>
+      </td>
+    </tr>
   </tbody>
 </table>
