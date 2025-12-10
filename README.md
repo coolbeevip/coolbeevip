@@ -4,10 +4,6 @@
   <strong>AI & Open Source Engineer | ASF PMC & Committer @ Apache ServiceComb</strong><br>
   <em>Creator of <a href="https://expertpick.pages.dev/">Expert Pick</a> and <a href="https://gitassistant.pages.dev/">Git Assistant</a></em>
 </p>
-<div style="display: flex; gap: 10px;">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=coolbeevip&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=6b4e16&icon_color=d4af37&bg_color=30,fff9e6,fff1bf,ffe27a,ffd24d,ffbf00"  alt="" width="45%"/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coolbeevip&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000000&icon_color=000000&bg_color=30,d7d7d7,f5f5f5,bfbfbf&theme=graywhite"  alt="" width="45%"/>
-</div>
 <table width="100%" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: 0; padding: 0;">
