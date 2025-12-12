@@ -48,7 +48,7 @@
       <td>
         <p align="center">
           <a href="https://chromewebstore.google.com/detail/Expert%20Pick/nlhaigmgncplpnanfmjakbfcbfbhcnjo?hl=en">
-            <img src="https://img.shields.io/badge/Chrome%20Extension-Expert%20Pick%201.2.0-green?logo=google-chrome&style=flat-square" alt="JetBrains Plugin Version">
+            <img src="https://img.shields.io/badge/Chrome%20Extension-Expert%20Pick%201.3.1-green?logo=google-chrome&style=flat-square" alt="JetBrains Plugin Version">
           </a>
         </p>  
       </td>
